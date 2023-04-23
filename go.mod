@@ -1,3 +1,3 @@
-module main.go
+module sudokuSolver
 
 go 1.20
